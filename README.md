@@ -1,6 +1,6 @@
 # Voting App
 
-To run simply do the following:
+To run, simply do the following:
 
 1. Clone repository
 
