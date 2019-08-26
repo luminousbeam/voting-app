@@ -1,4 +1,4 @@
-**Voting App**
+# Voting App
 
 To run simply do the following:
 
